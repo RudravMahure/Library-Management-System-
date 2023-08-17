@@ -1,0 +1,4 @@
+
+ 21070273 		 It_That_Frog 		 Brian_Clear 		 212 		 1 		 2500.000000 		 Novel 		 11-2-2023
+ 21070045 		 Harry_Potter 		 J_K_Rowling 		 213 		 1 		 2000.000000 		 Fantasy 		 11-2-2023
+ 21070045 		 Gravity 		 Newton 		 211 		 1 		 4000.000000 		 Science 		 12-2-2023
